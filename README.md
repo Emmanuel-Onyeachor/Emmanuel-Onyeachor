@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Emmanuel-Onyeachor
-- 👀 I’m interested in data analytics
-- 🌱 I’m currently learning SQL, DAX, Python
-- 💞️ I’m looking to collaborate on data analytics and data science projects
+- 👀 I’m interested in data analytics and data engineering
+- 🌱 I’m currently learning SQL, Python, Data Warehousing, Data Engineering
+- 💞️ I’m looking to collaborate on data engineering projects
 - 📫 How to reach me emmanuel2onyeachor@gmail.com
 
 <!---
