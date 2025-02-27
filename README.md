@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Emmanuel-Onyeachor
 - 👀 I’m interested in data analytics and data engineering
-- 🌱 I’m currently learning SQL, Python, Data Warehousing, Data Engineering
+- 🌱 I’m currently learning Python, Data Orchestration, Data Engineering
 - 💞️ I’m looking to collaborate on data engineering projects
 - 📫 How to reach me emmanuel2onyeachor@gmail.com
 
